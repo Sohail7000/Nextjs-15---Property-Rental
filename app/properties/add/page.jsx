@@ -1,5 +1,5 @@
-const AddProperty = () => {
-  return <div className="text-2xl">Add Property</div>;
+const AddPropertyPage = () => {
+  return <div>Add Property Page</div>;
 };
 
-export default AddProperty;
+export default AddPropertyPage;

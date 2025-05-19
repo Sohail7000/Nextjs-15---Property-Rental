@@ -22,9 +22,9 @@
         "name": "next"
       }
     ],
-    // "paths":{
-    //   "@/*":["/app/*"]
-    // }
+    "paths":{
+      "@/*":["/app/*"]
+    }
   },
   "include": [
     "next-env.d.ts",
